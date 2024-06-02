@@ -12,6 +12,7 @@ class Solution:
                 return [i,h[y]]
             
     # TC : O(n)
+    # SC : O(n)
                 
                 
             
