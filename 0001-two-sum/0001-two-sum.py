@@ -11,6 +11,7 @@ class Solution:
             if y in h and h[y] != i:
                 return [i,h[y]]
             
+    # TC : O(n)
                 
                 
             
