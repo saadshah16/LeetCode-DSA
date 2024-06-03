@@ -1,6 +1,5 @@
 class Solution:
-    def productExceptSelf(self, nums: List[int]) -> List[int]:
-        
+    def productExceptSelf(self, nums: List[int]) -> List[int]: 
         l_mult = 1
         r_mult = 1
         n = len(nums)
