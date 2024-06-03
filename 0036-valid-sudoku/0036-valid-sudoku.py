@@ -22,7 +22,6 @@ class Solution:
                         s.add(item)
         
         # Validate Board
-        
             starts = [(0, 0), (0, 3), (0, 6),
                   (3, 0), (3, 3), (3, 6),
                   (6, 0), (6, 3), (6, 6)]
