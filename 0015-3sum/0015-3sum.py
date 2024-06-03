@@ -20,3 +20,6 @@ class Solution:
                     j += 1
                     k -= 1
         return s
+    
+    # TC: O(n^2)
+    # SC: O(n)
