@@ -15,5 +15,5 @@ class Solution:
         return [(x,y) for d,x,y in heap]
         
     # TC: O(n log k)
-    # SC: O(n)
+    # SC: O(k)
         
