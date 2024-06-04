@@ -19,4 +19,4 @@ class Solution:
             
         return max_w
     # TC: O(n)
-    # SC: O(n)
+    # SC: O(1)
