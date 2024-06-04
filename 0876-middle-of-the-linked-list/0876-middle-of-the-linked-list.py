@@ -12,3 +12,5 @@ class Solution:
             fast = fast.next.next
             
         return slow
+    # TC : O(n)
+    # SC : O(1)
