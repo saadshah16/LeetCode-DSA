@@ -13,6 +13,6 @@ class Solution:
         
         return cur
     # TC: O(n)
-    # SC; O(1)
+    # SC: O(1)
        
         
