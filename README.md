@@ -7,6 +7,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/saadshah16/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/saadshah16/LeetCode-DSA/tree/master/0050-powx-n) |
 ## Recursion
 |  |
