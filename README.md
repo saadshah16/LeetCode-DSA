@@ -50,6 +50,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Linked List
 |  |
 | ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/saadshah16/LeetCode-DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/saadshah16/LeetCode-DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
