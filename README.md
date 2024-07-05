@@ -19,6 +19,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0219-contains-duplicate-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
@@ -60,6 +61,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/saadshah16/LeetCode-DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Dynamic Programming
 |  |
@@ -78,4 +80,8 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
