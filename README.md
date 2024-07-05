@@ -7,11 +7,13 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saadshah16/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/saadshah16/LeetCode-DSA/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/saadshah16/LeetCode-DSA/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -50,6 +52,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/saadshah16/LeetCode-DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/saadshah16/LeetCode-DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
