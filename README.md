@@ -10,6 +10,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0002-add-two-numbers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saadshah16/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/saadshah16/LeetCode-DSA/tree/master/0050-powx-n) |
+| [2645-pass-the-pillow](https://github.com/saadshah16/LeetCode-DSA/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/saadshah16/LeetCode-DSA/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/saadshah16/LeetCode-DSA/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
 | ------- |
