@@ -31,6 +31,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1803-average-waiting-time](https://github.com/saadshah16/LeetCode-DSA/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saadshah16/LeetCode-DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2350-find-closest-number-to-zero](https://github.com/saadshah16/LeetCode-DSA/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -70,6 +71,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/saadshah16/LeetCode-DSA/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/saadshah16/LeetCode-DSA/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saadshah16/LeetCode-DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/saadshah16/LeetCode-DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/saadshah16/LeetCode-DSA/tree/master/2645-pass-the-pillow) |
