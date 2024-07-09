@@ -104,4 +104,8 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saadshah16/LeetCode-DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+## String
+|  |
+| ------- |
+| [0551-student-attendance-record-i](https://github.com/saadshah16/LeetCode-DSA/tree/master/0551-student-attendance-record-i) |
 <!---LeetCode Topics End-->
