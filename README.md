@@ -31,6 +31,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/saadshah16/LeetCode-DSA/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saadshah16/LeetCode-DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2350-find-closest-number-to-zero](https://github.com/saadshah16/LeetCode-DSA/tree/master/2350-find-closest-number-to-zero) |
@@ -108,4 +109,9 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0551-student-attendance-record-i](https://github.com/saadshah16/LeetCode-DSA/tree/master/0551-student-attendance-record-i) |
+| [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
