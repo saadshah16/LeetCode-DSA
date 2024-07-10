@@ -25,6 +25,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0001-two-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saadshah16/LeetCode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -52,6 +53,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
 ## Bucket Sort
@@ -118,4 +121,8 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
