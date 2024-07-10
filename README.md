@@ -31,6 +31,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0283-move-zeroes](https://github.com/saadshah16/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saadshah16/LeetCode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0605-can-place-flowers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -67,6 +68,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
