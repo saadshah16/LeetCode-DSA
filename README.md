@@ -41,6 +41,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0001-two-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/saadshah16/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
 ## Two Pointers
@@ -110,6 +111,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/saadshah16/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0551-student-attendance-record-i](https://github.com/saadshah16/LeetCode-DSA/tree/master/0551-student-attendance-record-i) |
 | [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 ## Stack
