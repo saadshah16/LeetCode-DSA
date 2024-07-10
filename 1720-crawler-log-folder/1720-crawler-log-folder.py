@@ -3,10 +3,9 @@ class Solution:
         Main_Folder = 0
         for i in range(len(logs)):
             if logs[i] == "./":
-                Main_Folder += 0
+                continue
             elif logs[i] == "../":
-                if Main_Folder > 0: Main_Folder -= 1
-                else: Main_Folder -= 0
+                Main_Folder = max(0, Main_Folder-1)
             else:
                 Main_Folder += 1
         
