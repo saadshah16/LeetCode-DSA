@@ -7,4 +7,10 @@ class Solution:
         for i in range(min(n,m)):
             res += word1[i] + word2[i]
         
-        return res + word1[i+1:] + word2[i+1:]
+        if n > m:
+            res += word1[i+1:]
+        else:
+            res += word2[i+1:]
+        
+        return res
+        
