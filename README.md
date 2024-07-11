@@ -54,6 +54,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/saadshah16/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1894-merge-strings-alternately](https://github.com/saadshah16/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0551-student-attendance-record-i](https://github.com/saadshah16/LeetCode-DSA/tree/master/0551-student-attendance-record-i) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saadshah16/LeetCode-DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
+| [1894-merge-strings-alternately](https://github.com/saadshah16/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
