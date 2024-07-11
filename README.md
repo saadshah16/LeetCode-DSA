@@ -33,6 +33,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/saadshah16/LeetCode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
