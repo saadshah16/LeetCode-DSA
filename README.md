@@ -39,6 +39,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/saadshah16/LeetCode-DSA/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saadshah16/LeetCode-DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2350-find-closest-number-to-zero](https://github.com/saadshah16/LeetCode-DSA/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0290-word-pattern](https://github.com/saadshah16/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,4 +142,12 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
