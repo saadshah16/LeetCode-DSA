@@ -13,6 +13,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1146-greatest-common-divisor-of-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/saadshah16/LeetCode-DSA/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saadshah16/LeetCode-DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2645-pass-the-pillow](https://github.com/saadshah16/LeetCode-DSA/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
@@ -44,6 +45,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/saadshah16/LeetCode-DSA/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saadshah16/LeetCode-DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2350-find-closest-number-to-zero](https://github.com/saadshah16/LeetCode-DSA/tree/master/2350-find-closest-number-to-zero) |
 | [2846-robot-collisions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2846-robot-collisions) |
@@ -182,4 +184,8 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1207-delete-nodes-and-return-forest](https://github.com/saadshah16/LeetCode-DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/saadshah16/LeetCode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saadshah16/LeetCode-DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
