@@ -10,6 +10,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0002-add-two-numbers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saadshah16/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/saadshah16/LeetCode-DSA/tree/master/0050-powx-n) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/saadshah16/LeetCode-DSA/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saadshah16/LeetCode-DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/saadshah16/LeetCode-DSA/tree/master/2645-pass-the-pillow) |
@@ -143,6 +144,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0290-word-pattern](https://github.com/saadshah16/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0551-student-attendance-record-i](https://github.com/saadshah16/LeetCode-DSA/tree/master/0551-student-attendance-record-i) |
 | [0726-number-of-atoms](https://github.com/saadshah16/LeetCode-DSA/tree/master/0726-number-of-atoms) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saadshah16/LeetCode-DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/saadshah16/LeetCode-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
