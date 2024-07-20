@@ -38,6 +38,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saadshah16/LeetCode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/saadshah16/LeetCode-DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/saadshah16/LeetCode-DSA/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saadshah16/LeetCode-DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -81,6 +82,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0605-can-place-flowers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/saadshah16/LeetCode-DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/saadshah16/LeetCode-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
 |  |
@@ -123,6 +125,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/saadshah16/LeetCode-DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Graph
 |  |
 | ------- |
