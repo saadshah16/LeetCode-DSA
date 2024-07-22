@@ -49,6 +49,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [2306-create-binary-tree-from-descriptions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2350-find-closest-number-to-zero](https://github.com/saadshah16/LeetCode-DSA/tree/master/2350-find-closest-number-to-zero) |
 | [2472-build-a-matrix-with-conditions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/saadshah16/LeetCode-DSA/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1207-delete-nodes-and-return-forest](https://github.com/saadshah16/LeetCode-DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/saadshah16/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/saadshah16/LeetCode-DSA/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/saadshah16/LeetCode-DSA/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/saadshah16/LeetCode-DSA/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
@@ -155,6 +158,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1818-maximum-score-from-removing-substrings](https://github.com/saadshah16/LeetCode-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/saadshah16/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saadshah16/LeetCode-DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/saadshah16/LeetCode-DSA/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
