@@ -25,6 +25,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -73,6 +74,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/saadshah16/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -85,6 +87,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0018-4sum) |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/saadshah16/LeetCode-DSA/tree/master/0726-number-of-atoms) |
