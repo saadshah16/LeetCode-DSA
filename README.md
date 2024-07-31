@@ -38,6 +38,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0605-can-place-flowers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
+| [1196-filling-bookcase-shelves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saadshah16/LeetCode-DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/saadshah16/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/saadshah16/LeetCode-DSA/tree/master/1333-sort-the-jumbled-numbers) |
@@ -127,6 +128,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saadshah16/LeetCode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [1196-filling-bookcase-shelves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saadshah16/LeetCode-DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/saadshah16/LeetCode-DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
