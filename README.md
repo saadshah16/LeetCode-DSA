@@ -56,6 +56,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [2350-find-closest-number-to-zero](https://github.com/saadshah16/LeetCode-DSA/tree/master/2350-find-closest-number-to-zero) |
 | [2472-build-a-matrix-with-conditions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/saadshah16/LeetCode-DSA/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/saadshah16/LeetCode-DSA/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/saadshah16/LeetCode-DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
@@ -182,6 +183,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1894-merge-strings-alternately](https://github.com/saadshah16/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saadshah16/LeetCode-DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/saadshah16/LeetCode-DSA/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/saadshah16/LeetCode-DSA/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/saadshah16/LeetCode-DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
