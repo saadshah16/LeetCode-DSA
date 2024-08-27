@@ -278,4 +278,8 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/saadshah16/LeetCode-DSA/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
