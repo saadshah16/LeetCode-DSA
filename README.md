@@ -45,6 +45,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1207-delete-nodes-and-return-forest](https://github.com/saadshah16/LeetCode-DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/saadshah16/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1333-sort-the-jumbled-numbers](https://github.com/saadshah16/LeetCode-DSA/tree/master/1333-sort-the-jumbled-numbers) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/saadshah16/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saadshah16/LeetCode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saadshah16/LeetCode-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -77,6 +78,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saadshah16/LeetCode-DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/saadshah16/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/saadshah16/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saadshah16/LeetCode-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saadshah16/LeetCode-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
