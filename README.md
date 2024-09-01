@@ -38,6 +38,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saadshah16/LeetCode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/saadshah16/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
@@ -218,6 +219,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 ## Tree
 |  |
 | ------- |
