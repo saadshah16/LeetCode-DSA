@@ -147,6 +147,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saadshah16/LeetCode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [1196-filling-bookcase-shelves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1196-filling-bookcase-shelves) |
+| [1250-longest-common-subsequence](https://github.com/saadshah16/LeetCode-DSA/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saadshah16/LeetCode-DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/saadshah16/LeetCode-DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -195,6 +196,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0551-student-attendance-record-i](https://github.com/saadshah16/LeetCode-DSA/tree/master/0551-student-attendance-record-i) |
 | [0726-number-of-atoms](https://github.com/saadshah16/LeetCode-DSA/tree/master/0726-number-of-atoms) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1250-longest-common-subsequence](https://github.com/saadshah16/LeetCode-DSA/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/saadshah16/LeetCode-DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/saadshah16/LeetCode-DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
