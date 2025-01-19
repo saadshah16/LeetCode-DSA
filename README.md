@@ -77,6 +77,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0219-contains-duplicate-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/saadshah16/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/saadshah16/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/saadshah16/LeetCode-DSA/tree/master/0726-number-of-atoms) |
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saadshah16/LeetCode-DSA/tree/master/1207-delete-nodes-and-return-forest) |
@@ -95,6 +96,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/saadshah16/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/saadshah16/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/saadshah16/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -159,6 +161,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
+| [0567-permutation-in-string](https://github.com/saadshah16/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Bucket Sort
@@ -197,6 +200,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0205-isomorphic-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/saadshah16/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0551-student-attendance-record-i](https://github.com/saadshah16/LeetCode-DSA/tree/master/0551-student-attendance-record-i) |
+| [0567-permutation-in-string](https://github.com/saadshah16/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/saadshah16/LeetCode-DSA/tree/master/0726-number-of-atoms) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/saadshah16/LeetCode-DSA/tree/master/1250-longest-common-subsequence) |
