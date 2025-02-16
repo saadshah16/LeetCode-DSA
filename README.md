@@ -58,6 +58,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saadshah16/LeetCode-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/saadshah16/LeetCode-DSA/tree/master/1803-average-waiting-time) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saadshah16/LeetCode-DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
