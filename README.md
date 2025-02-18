@@ -26,6 +26,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
@@ -98,6 +99,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
@@ -131,6 +133,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/saadshah16/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
