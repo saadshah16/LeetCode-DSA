@@ -29,6 +29,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0011-container-with-most-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
@@ -102,6 +103,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0011-container-with-most-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/saadshah16/LeetCode-DSA/tree/master/0283-move-zeroes) |
