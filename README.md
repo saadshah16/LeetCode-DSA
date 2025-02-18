@@ -32,6 +32,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0042-trapping-rain-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
@@ -77,6 +78,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0001-two-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/saadshah16/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/saadshah16/LeetCode-DSA/tree/master/0290-word-pattern) |
@@ -114,6 +116,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0015-3sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -278,6 +281,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -294,6 +298,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
