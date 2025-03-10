@@ -116,6 +116,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0189-rotate-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saadshah16/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/saadshah16/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/saadshah16/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/saadshah16/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -174,6 +175,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saadshah16/LeetCode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0392-is-subsequence](https://github.com/saadshah16/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/saadshah16/LeetCode-DSA/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saadshah16/LeetCode-DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -225,6 +227,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0125-valid-palindrome](https://github.com/saadshah16/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/saadshah16/LeetCode-DSA/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/saadshah16/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/saadshah16/LeetCode-DSA/tree/master/0551-student-attendance-record-i) |
 | [0567-permutation-in-string](https://github.com/saadshah16/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/saadshah16/LeetCode-DSA/tree/master/0726-number-of-atoms) |
