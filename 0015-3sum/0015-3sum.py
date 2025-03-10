@@ -1,7 +1,7 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        n = len(nums)
         nums.sort()
+        n = len(nums)
         res = []
 
         for i in range(n):
@@ -10,23 +10,26 @@ class Solution:
             elif i > 0 and nums[i] == nums[i-1]:
                 continue
             
-            low,high = i+1,n-1
-            while low < high:
-                sum = nums[i] + nums[low] + nums[high]
-                if sum == 0:
-                    res.append([nums[i], nums[low], nums[high]])
-                    low += 1
-                    high -= 1
-                    while low < high and nums[low] == nums[low-1]:
-                        low += 1
-                    while low < high and nums[high] == nums[high+1]:
-                        high -= 1
-                elif sum < 0:
-                    low +=1
-                else:
-                    high -= 1
-        return res
+            lo = i+1
+            hi = n-1
+
+            while lo < hi:
+                summ = nums[i] + nums[lo] + nums[hi]
+                if summ == 0 :
+                    res.append([nums[i],nums[lo],nums[hi]])
+                    lo += 1
+                    hi -= 1
+                    while lo < hi and nums[lo] == nums[lo-1]:
+                        lo += 1
+                    while lo < hi and nums[hi] == nums[hi+1]:
+                        hi -= 1
+                elif summ < 0: lo +=1
+                else: hi -= 1
             
-    
-    # TC: O(n^2)
-    # SC: O(n)
+        return res
+
+        # TC: O(n^2)
+        # SC: O(n)
+                
+
+
