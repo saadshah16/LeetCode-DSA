@@ -9,6 +9,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0002-add-two-numbers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saadshah16/LeetCode-DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/saadshah16/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saadshah16/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -34,6 +35,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0027-remove-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/saadshah16/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/saadshah16/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -209,6 +211,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saadshah16/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/saadshah16/LeetCode-DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
