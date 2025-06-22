@@ -35,6 +35,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0040-combination-sum-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/saadshah16/LeetCode-DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/saadshah16/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saadshah16/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
@@ -133,6 +134,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0015-3sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/saadshah16/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0274-h-index) |
