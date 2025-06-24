@@ -33,6 +33,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0018-4sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saadshah16/LeetCode-DSA/tree/master/0048-rotate-image) |
@@ -130,6 +131,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saadshah16/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
