@@ -282,6 +282,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/saadshah16/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saadshah16/LeetCode-DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/saadshah16/LeetCode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -291,6 +292,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/saadshah16/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saadshah16/LeetCode-DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/saadshah16/LeetCode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/saadshah16/LeetCode-DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -299,6 +301,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/saadshah16/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saadshah16/LeetCode-DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/saadshah16/LeetCode-DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -346,6 +349,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Breadth-First Search
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/saadshah16/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/saadshah16/LeetCode-DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Backtracking
 |  |
