@@ -42,6 +42,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saadshah16/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0189-rotate-array) |
@@ -93,6 +94,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0003-longest-substring-without-repeating-characters](https://github.com/saadshah16/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/saadshah16/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -284,6 +286,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saadshah16/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -295,6 +298,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saadshah16/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saadshah16/LeetCode-DSA/tree/master/1207-delete-nodes-and-return-forest) |
@@ -322,6 +326,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
