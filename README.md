@@ -53,6 +53,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0274-h-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/saadshah16/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/saadshah16/LeetCode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0724-find-pivot-index) |
@@ -100,6 +101,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0205-isomorphic-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/saadshah16/LeetCode-DSA/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/saadshah16/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/saadshah16/LeetCode-DSA/tree/master/0726-number-of-atoms) |
@@ -151,6 +153,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0215-kth-largest-element-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/saadshah16/LeetCode-DSA/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
@@ -214,6 +217,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 ## Ordered Set
 |  |
@@ -334,11 +338,13 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -353,6 +359,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saadshah16/LeetCode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -389,4 +396,5 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
