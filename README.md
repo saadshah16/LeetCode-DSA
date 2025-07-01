@@ -12,6 +12,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0048-rotate-image](https://github.com/saadshah16/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/saadshah16/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [1014-k-closest-points-to-origin](https://github.com/saadshah16/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/saadshah16/LeetCode-DSA/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/saadshah16/LeetCode-DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -59,6 +60,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0724-find-pivot-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/saadshah16/LeetCode-DSA/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/saadshah16/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
 | [1196-filling-bookcase-shelves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saadshah16/LeetCode-DSA/tree/master/1207-delete-nodes-and-return-forest) |
@@ -157,6 +159,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/saadshah16/LeetCode-DSA/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/saadshah16/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1333-sort-the-jumbled-numbers](https://github.com/saadshah16/LeetCode-DSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saadshah16/LeetCode-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -340,12 +343,14 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0215-kth-largest-element-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/saadshah16/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/saadshah16/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -397,4 +402,9 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/saadshah16/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/saadshah16/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
