@@ -47,6 +47,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0274-h-index) |
@@ -147,6 +148,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0056-merge-intervals](https://github.com/saadshah16/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -331,10 +333,12 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -381,4 +385,8 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saadshah16/LeetCode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
