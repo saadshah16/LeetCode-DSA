@@ -239,6 +239,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/saadshah16/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/saadshah16/LeetCode-DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/saadshah16/LeetCode-DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -321,6 +322,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/saadshah16/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saadshah16/LeetCode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saadshah16/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -334,6 +336,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/saadshah16/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [2472-build-a-matrix-with-conditions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
@@ -382,6 +385,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/saadshah16/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saadshah16/LeetCode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/saadshah16/LeetCode-DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Backtracking
