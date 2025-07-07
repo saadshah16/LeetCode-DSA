@@ -102,6 +102,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/saadshah16/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/saadshah16/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/saadshah16/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -258,6 +259,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0076-minimum-window-substring](https://github.com/saadshah16/LeetCode-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/saadshah16/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/saadshah16/LeetCode-DSA/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/saadshah16/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/saadshah16/LeetCode-DSA/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/saadshah16/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/saadshah16/LeetCode-DSA/tree/master/0551-student-attendance-record-i) |
@@ -419,4 +421,12 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/saadshah16/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/saadshah16/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/saadshah16/LeetCode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
