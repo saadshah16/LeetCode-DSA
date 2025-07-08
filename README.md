@@ -63,6 +63,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/saadshah16/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1039-find-the-town-judge](https://github.com/saadshah16/LeetCode-DSA/tree/master/1039-find-the-town-judge) |
+| [1127-last-stone-weight](https://github.com/saadshah16/LeetCode-DSA/tree/master/1127-last-stone-weight) |
 | [1196-filling-bookcase-shelves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/saadshah16/LeetCode-DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/saadshah16/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -362,6 +363,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0347-top-k-frequent-elements](https://github.com/saadshah16/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/saadshah16/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/saadshah16/LeetCode-DSA/tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
