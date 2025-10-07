@@ -73,6 +73,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saadshah16/LeetCode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saadshah16/LeetCode-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saadshah16/LeetCode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/saadshah16/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/saadshah16/LeetCode-DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/saadshah16/LeetCode-DSA/tree/master/1720-crawler-log-folder) |
@@ -115,6 +116,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1319-unique-number-of-occurrences](https://github.com/saadshah16/LeetCode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/saadshah16/LeetCode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saadshah16/LeetCode-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1612-avoid-flood-in-the-city](https://github.com/saadshah16/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saadshah16/LeetCode-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -147,6 +149,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saadshah16/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1612-avoid-flood-in-the-city](https://github.com/saadshah16/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +178,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0011-container-with-most-water](https://github.com/saadshah16/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/saadshah16/LeetCode-DSA/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/saadshah16/LeetCode-DSA/tree/master/0890-lemonade-change) |
+| [1612-avoid-flood-in-the-city](https://github.com/saadshah16/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/saadshah16/LeetCode-DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/saadshah16/LeetCode-DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -367,6 +371,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0948-sort-an-array](https://github.com/saadshah16/LeetCode-DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/saadshah16/LeetCode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/saadshah16/LeetCode-DSA/tree/master/1127-last-stone-weight) |
+| [1612-avoid-flood-in-the-city](https://github.com/saadshah16/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
 ## Merge Sort
 |  |
 | ------- |
