@@ -88,6 +88,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [2306-create-binary-tree-from-descriptions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saadshah16/LeetCode-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/saadshah16/LeetCode-DSA/tree/master/2350-find-closest-number-to-zero) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2448-count-number-of-bad-pairs](https://github.com/saadshah16/LeetCode-DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/saadshah16/LeetCode-DSA/tree/master/2502-sort-the-people) |
@@ -142,6 +143,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0392-is-subsequence](https://github.com/saadshah16/LeetCode-DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/saadshah16/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/saadshah16/LeetCode-DSA/tree/master/1894-merge-strings-alternately) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saadshah16/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/saadshah16/LeetCode-DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +173,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/saadshah16/LeetCode-DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/saadshah16/LeetCode-DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/saadshah16/LeetCode-DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2502-sort-the-people](https://github.com/saadshah16/LeetCode-DSA/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2846-robot-collisions) |
 ## Greedy
