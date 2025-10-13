@@ -95,6 +95,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | [2727-number-of-senior-citizens](https://github.com/saadshah16/LeetCode-DSA/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/saadshah16/LeetCode-DSA/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/saadshah16/LeetCode-DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saadshah16/LeetCode-DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Hash Table
 |  |
 | ------- |
@@ -306,6 +307,7 @@ Welcome to my repository of LeetCode solutions! This repository contains my solu
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/saadshah16/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/saadshah16/LeetCode-DSA/tree/master/0724-find-pivot-index) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saadshah16/LeetCode-DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Tree
 |  |
 | ------- |
